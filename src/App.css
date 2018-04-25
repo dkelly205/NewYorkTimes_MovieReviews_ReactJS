@@ -1,0 +1,30 @@
+.heading{
+    color:#17252A;
+    font-size: 6em;
+    text-align: center;
+    width: 100%;
+    margin:auto;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.movie{
+      width:21%;
+      margin:auto;
+      padding:20px;
+      display: inline-block;
+
+    }
+
+
+body{
+  background-color: #3AAFA9;
+  color:#17252a;
+}
+
+a{
+  color:#17252A;
+  text-decoration: none;
+}
+a :hover{
+  color: #feffff;
+}
